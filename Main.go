@@ -6,7 +6,6 @@ import (
 	"fmt"
 	"encoding/hex"
 	"bytes"
-	log
 )
 
 type DNSMSG interface{}
